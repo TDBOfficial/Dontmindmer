@@ -258,9 +258,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 69292,
-          "FriendlyName": "Game Vest",
-          "Tooltip": "The perfect gear for paintbald!",
-          "AvatarItemDesc": "24b8b757-4168-4b3b-ba11-46f29d19044d,,,",
+          "FriendlyName": "Hockey Jersey (Black And Red)",
+          "Tooltip": "paint balls",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,bda7a57e-5227-49f4-a119-e3f166604738,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
