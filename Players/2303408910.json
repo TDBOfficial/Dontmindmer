@@ -1,1 +1,10 @@
-{"Id":2303408910,"DisplayName":"sonnymans","Username":"Sonny","Level":1,"XP":0,"Developer":false}
+{
+  "Id":2303408910,
+  "DisplayName":"sonnymans 2018",
+  "Username":"Sonnymans",
+  "Level":30,
+  "XP":100,
+  "Developer":false,
+  "IsBooster":false,
+  "BootMultiplier":0
+}
