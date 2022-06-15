@@ -13,6 +13,19 @@
     }
   },
   {
+    "guid": "9b2ca087-061c-4d17-a79c-d6d7da3946f6",
+    "name": "Hoodie_Gold",
+    "textureName": "Hoodie_Torso_tex.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
     "guid": "b22955e4-9c87-45f4-a006-e4cddf4ca29b",
     "name": "MobsterTorso_tex_Dev",
     "textureName": "MobsterTorso_tex_Dev.png",
