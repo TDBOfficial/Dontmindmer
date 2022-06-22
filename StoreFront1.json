@@ -177,9 +177,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 74,
-          "FriendlyName": "Class of 2015!",
+          "FriendlyName": "Shirt (OG)",
           "Tooltip": "",
-          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5cc72438-b640-43eb-a78c-db2e6fbf0f03,f86b19a5-40f6-49d1-ac7f-828e1779ed64,10b9cace-17ce-4813-a533-b2cd587f71cb",
+          "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,bde08851-a9e4-4faa-8f04-a0a661672472,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -204,9 +204,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 75,
-          "FriendlyName": "Hockey Jersey (Army)",
+          "FriendlyName": "Hockey Jersey (OG)",
           "Tooltip": "",
-          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,5e7a48ed-8f08-4990-a3ae-05722c9f59a8,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
+          "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,bde08851-a9e4-4faa-8f04-a0a661672472,d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
